@@ -91,7 +91,7 @@ This project uses 8 core tables:
 
  # Repository Structure
 <h3>Data</h3> 
-   1.<a href=""> Customers</a>– Information about customers and their sales representatives<br>  
+   1.<a href="https://github.com/priyankawagh123/Power-Bi-Dashboard/blob/main/customers.csv"> Customers</a>– Information about customers and their sales representatives<br>  
    2. <a href="">Employees</a> – Employee details including job titles and reporting hierarchy<br>  
    3. <a href="">Offices</a> – Office locations for the company<br>
    4. <a href="">Orders</a> – Sales order details by date and status<br>  
