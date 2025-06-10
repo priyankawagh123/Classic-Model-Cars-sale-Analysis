@@ -90,15 +90,15 @@ This project uses 8 core tables:
 6. **Professional Documentation** – Organized structure with a README and screenshots
 
  # Repository Structure
- **Data** <br> 
-   *Customers* – Information about customers and their sales representatives  
- **Employees** – Employee details including job titles and reporting hierarchy  
- **Offices** – Office locations for the company  
- **Orders** – Sales order details by date and status  
- **Order Details** – Line-level sales records for each order  
- **Payments** – Payments made by customers over time  
- **Product Lines** – Description of product categories  
- **Products** – Detailed product catalog with pricing and stock levels  
+<h2>Data</h2> 
+   **Customers**– Information about customers and their sales representatives  
+   *Employees* – Employee details including job titles and reporting hierarchy  
+   *Offices* – Office locations for the company  
+   *Orders* – Sales order details by date and status  
+   *Order Details* – Line-level sales records for each order  
+   *Payments* – Payments made by customers over time  
+   *Product Lines* – Description of product categories  
+   *Products* – Detailed product catalog with pricing and stock levels  
  **Dashboard** - 
  **Img** - 
  
