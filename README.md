@@ -91,14 +91,14 @@ This project uses 8 core tables:
 
  # Repository Structure
 <h3>Data</h3> 
-   **Customers**– Information about customers and their sales representatives<br>  
-   **Employees** – Employee details including job titles and reporting hierarchy<br>  
-   **Offices** – Office locations for the company<br>
-   **Orders** – Sales order details by date and status<br>  
-   **Order Details** – Line-level sales records for each order<br>  
-   **Payments** – Payments made by customers over time<br>  
-   **Product Lines** – Description of product categories<br>  
-   **Products** – Detailed product catalog with pricing and stock levels<br>  
+   1.<a href=""> Customers</a>– Information about customers and their sales representatives<br>  
+   2. <a href="">Employees</a> – Employee details including job titles and reporting hierarchy<br>  
+   3. <a href="">Offices</a> – Office locations for the company<br>
+   4. <a href="">Orders</a> – Sales order details by date and status<br>  
+   5. <a href="">Order Details</a> – Line-level sales records for each order<br>  
+   6. <a href="">Payments</a> – Payments made by customers over time<br>  
+   7. <a href="">Product Lines</a> – Description of product categories<br>  
+   8. <a href="">Products</a> – Detailed product catalog with pricing and stock levels<br>  
  <h3>Dashboard</h3> - 
  <h3>Img</h3> - 
  
