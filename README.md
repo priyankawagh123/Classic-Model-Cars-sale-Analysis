@@ -79,3 +79,12 @@ This project uses 8 core tables:
 ✅ Clean Data Pipeline
 
 - Null value handling, data type correction, and column renaming in Power Query.
+
+# Why This Project Stands Out
+
+1. **End-to-End Pipeline** – From data cleaning and transformation to modeling and dashboarding  
+2. **Relational Data Modeling** – Uses proper relationships and cardinality for scalable BI models  
+3. **Business-Driven Approach** – Focused on real-world use cases and decisions  
+4. **Advanced DAX Usage** – Includes calculated measures, KPIs, and filters  
+5. **Interactive Dashboard** – User-friendly visuals with slicers, tooltips, and drill-throughs  
+6. **Professional Documentation** – Organized structure with a README and screenshots  
