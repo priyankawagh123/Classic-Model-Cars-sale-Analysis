@@ -1,19 +1,6 @@
 # Power-Bi-Dashboard
 This Power BI project provides a comprehensive analysis of a fictional company that sells collectible classic model cars. The dataset consists of eight interrelated tables covering customers, employees, offices, orders, payments, products, and product lines.
 
-# Data Sources
-
-This project uses 8 core tables:
-
-1. **Customers** – Information about customers and their sales representatives  
-2. **Employees** – Employee details including job titles and reporting hierarchy  
-3. **Offices** – Office locations for the company  
-4. **Orders** – Sales order details by date and status  
-5. **Order Details** – Line-level sales records for each order  
-6. **Payments** – Payments made by customers over time  
-7. **Product Lines** – Description of product categories  
-8. **Products** – Detailed product catalog with pricing and stock levels  
-
 # Key Insights
 - Top Performing Products:
 
@@ -92,13 +79,13 @@ This project uses 8 core tables:
  # Repository Structure
 <h3>Data</h3> 
    1.<a href="https://github.com/priyankawagh123/Power-Bi-Dashboard/blob/main/customers.csv"> Customers</a>– Information about customers and their sales representatives<br>  
-   2. <a href="">Employees</a> – Employee details including job titles and reporting hierarchy<br>  
-   3. <a href="">Offices</a> – Office locations for the company<br>
-   4. <a href="">Orders</a> – Sales order details by date and status<br>  
-   5. <a href="">Order Details</a> – Line-level sales records for each order<br>  
-   6. <a href="">Payments</a> – Payments made by customers over time<br>  
-   7. <a href="">Product Lines</a> – Description of product categories<br>  
-   8. <a href="">Products</a> – Detailed product catalog with pricing and stock levels<br>  
+   2. <a href="https://github.com/priyankawagh123/Power-Bi-Dashboard/blob/main/employees.csv">Employees</a> – Employee details including job titles and reporting hierarchy<br>  
+   3. <a href="https://github.com/priyankawagh123/Power-Bi-Dashboard/blob/main/offices.csv">Offices</a> – Office locations for the company<br>
+   4. <a href="https://github.com/priyankawagh123/Power-Bi-Dashboard/blob/main/orders.csv">Orders</a> – Sales order details by date and status<br>  
+   5. <a href="https://github.com/priyankawagh123/Power-Bi-Dashboard/blob/main/order details.csv">Order Details</a> – Line-level sales records for each order<br>  
+   6. <a href="https://github.com/priyankawagh123/Power-Bi-Dashboard/blob/main/payments.csv">Payments</a> – Payments made by customers over time<br>  
+   7. <a href="https://github.com/priyankawagh123/Power-Bi-Dashboard/blob/main/productlines.csv">Product Lines</a> – Description of product categories<br>  
+   8. <a href="https://github.com/priyankawagh123/Power-Bi-Dashboard/blob/main/products.csv">Products</a> – Detailed product catalog with pricing and stock levels<br>  
  <h3>Dashboard</h3> - 
  <h3>Img</h3> - 
  
