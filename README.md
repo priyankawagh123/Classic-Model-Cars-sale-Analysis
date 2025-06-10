@@ -87,5 +87,6 @@ This Power BI project provides a comprehensive analysis of a fictional company t
    7. <a href="https://github.com/priyankawagh123/Power-Bi-Dashboard/blob/main/productlines.csv">Product Lines</a> – Description of product categories<br>  
    8. <a href="https://github.com/priyankawagh123/Power-Bi-Dashboard/blob/main/products.csv">Products</a> – Detailed product catalog with pricing and stock levels<br>  
  <h3>Dashboard</h3> - <a href="https://github.com/priyankawagh123/Power-Bi-Dashboard/blob/main/PBi_project.pbix">PowerBI_Dashboard</a>
- <h3>Img</h3> - 
+ <h3>Img</h3> - ![Dashboard_img](https://github.com/user-attachments/assets/9eb053e8-4f2f-4a0c-a38c-588be905f4d9)
+
  
