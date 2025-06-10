@@ -50,3 +50,32 @@ Inventory Overview:
 Some products (e.g., 1968 Ford Mustang) are nearly out of stock, requiring urgent restock.
 
 High stock items with low sales volume suggest overstock or poor demand.
+
+ # Key Features
+📌 Interactive Filters & Slicers
+
+- Analyze by product line, customer, country, or sales rep dynamically.
+
+📈 Visual Dashboards
+
+- KPIs, bar charts, line graphs, and donut charts for at-a-glance insights.
+
+📊 DAX Measures
+
+- Custom calculations like total revenue, profit margin, top N customers/products.
+
+🛠 Data Model
+
+- Star schema using relationships between fact and dimension tables.
+
+🔍 Drill-through & Tooltips
+
+- Explore individual customer, product, or order details with a click.
+
+📅 Time Intelligence
+
+- Monthly, quarterly, and yearly comparisons using date hierarchy.
+
+✅ Clean Data Pipeline
+
+- Null value handling, data type correction, and column renaming in Power Query.
