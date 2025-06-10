@@ -90,7 +90,7 @@ This project uses 8 core tables:
 6. **Professional Documentation** – Organized structure with a README and screenshots
 
  # Repository Structure
- **Data** - 
+ **Data** <br> 
    *Customers* – Information about customers and their sales representatives  
  **Employees** – Employee details including job titles and reporting hierarchy  
  **Offices** – Office locations for the company  
