@@ -89,7 +89,7 @@ This Power BI project provides a comprehensive analysis of a fictional company t
  <h3>Dashboard</h3> - <a href="https://github.com/priyankawagh123/Power-Bi-Dashboard/blob/main/PBi_project.pbix">PowerBI_Dashboard</a>
  <h3>Img</h3> 
  <p align="center">
-  <img src="https://github.com/priyankawagh123/Power-Bi-Dashboard/blob/main/Dashboard_img.png" width="600">
+  <img src="https://github.com/priyankawagh123/Power-Bi-Dashboard/blob/main/Dashboard_img.png" width=50%>
 </p>
 
  
