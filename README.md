@@ -87,4 +87,18 @@ This project uses 8 core tables:
 3. **Business-Driven Approach** – Focused on real-world use cases and decisions  
 4. **Advanced DAX Usage** – Includes calculated measures, KPIs, and filters  
 5. **Interactive Dashboard** – User-friendly visuals with slicers, tooltips, and drill-throughs  
-6. **Professional Documentation** – Organized structure with a README and screenshots  
+6. **Professional Documentation** – Organized structure with a README and screenshots
+
+ # Repository Structure
+ **Data** - 
+   *Customers* – Information about customers and their sales representatives  
+ **Employees** – Employee details including job titles and reporting hierarchy  
+ **Offices** – Office locations for the company  
+ **Orders** – Sales order details by date and status  
+ **Order Details** – Line-level sales records for each order  
+ **Payments** – Payments made by customers over time  
+ **Product Lines** – Description of product categories  
+ **Products** – Detailed product catalog with pricing and stock levels  
+ **Dashboard** - 
+ **Img** - 
+ 
