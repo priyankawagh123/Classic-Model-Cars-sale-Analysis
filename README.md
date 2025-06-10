@@ -23,7 +23,7 @@ High-margin products are not always top sellers—volume and price mix are cruci
 
 Customer Segmentation:
 
-Customers from the USA and France dominate total payments.
+  Customers from the USA and France dominate total payments.
 
 A small percentage of customers contribute a large portion of total revenue (Pareto principle).
 
