@@ -1,39 +1,39 @@
-# Power-Bi-Dashboard
+# 🚀📊 Power-Bi-Dashboard
 # 🚗 Classic Car Sales Analysis Project
 This Power BI project provides a comprehensive analysis of a fictional company that sells collectible classic model cars. The dataset consists of eight interrelated tables covering customers, employees, offices, orders, payments, products, and product lines.
 
 # Key Insights
-1. Top Performing Products:
+1. 📈 Top Performing Products:
 
  - Classic Cars generated the highest revenue, followed by Vintage Cars and Motorcycles.
 
  - High-margin products are not always top sellers—volume and price mix are crucial.
 
-2. Customer Segmentation:
+2. 👥🔍Customer Segmentation:
 
  - Customers from the USA and France dominate total payments.
 
  - A small percentage of customers contribute a large portion of total revenue (Pareto principle).
 
-3. Payment & Credit Analysis:
+3. 💳🏦Payment & Credit Analysis:
 
  - Some customers exceed 80% of their credit limit, indicating potential credit risk.
 
  - Payment delays are minimal; most customers make timely payments.
 
-4. Order Trends:
+4. 📅🚚Order Trends:
 
  - Peak order volume occurs in Q1 and Q4 of the year, suggesting seasonal demand.
 
  - Majority of orders are shipped within 5–7 days of order placement.
 
-5. Sales Rep & Office Performance:
+5. 🏆🎯Sales Rep & Office Performance:
 
  - The San Francisco office leads in overall revenue.
 
  - Sales reps under VP Sales consistently outperform others, indicating effective leadership.
 
-6. Inventory Overview:
+6. 🔍📋Inventory Overview:
 
  - Some products (e.g., 1968 Ford Mustang) are nearly out of stock, requiring urgent restock.
 
