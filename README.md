@@ -5,9 +5,9 @@ This Power BI project provides a comprehensive analysis of a fictional company t
 # Key Insights
 1. 📈 Top Performing Products:
 
- - Classic Cars generated the highest revenue, followed by Vintage Cars and Motorcycles.
+     - Classic Cars generated the highest revenue, followed by Vintage Cars and Motorcycles.
 
- - High-margin products are not always top sellers—volume and price mix are crucial.
+     - High-margin products are not always top sellers—volume and price mix are crucial.
 
 2. 👥🔍Customer Segmentation:
 
@@ -17,56 +17,56 @@ This Power BI project provides a comprehensive analysis of a fictional company t
 
 3. 💳🏦Payment & Credit Analysis:
 
- - Some customers exceed 80% of their credit limit, indicating potential credit risk.
+     - Some customers exceed 80% of their credit limit, indicating potential credit risk.
 
- - Payment delays are minimal; most customers make timely payments.
+     - Payment delays are minimal; most customers make timely payments.
 
 4. 📅🚚Order Trends:
 
- - Peak order volume occurs in Q1 and Q4 of the year, suggesting seasonal demand.
+    - Peak order volume occurs in Q1 and Q4 of the year, suggesting seasonal demand.
 
- - Majority of orders are shipped within 5–7 days of order placement.
+    - Majority of orders are shipped within 5–7 days of order placement.
 
 5. 🏆🎯Sales Rep & Office Performance:
 
- - The San Francisco office leads in overall revenue.
+    - The San Francisco office leads in overall revenue.
 
- - Sales reps under VP Sales consistently outperform others, indicating effective leadership.
+    - Sales reps under VP Sales consistently outperform others, indicating effective leadership.
 
 6. 🔍📋Inventory Overview:
 
- - Some products (e.g., 1968 Ford Mustang) are nearly out of stock, requiring urgent restock.
+    - Some products (e.g., 1968 Ford Mustang) are nearly out of stock, requiring urgent restock.
 
- - High stock items with low sales volume suggest overstock or poor demand.
+    - High stock items with low sales volume suggest overstock or poor demand.
 
  # Key Features
 📌 Interactive Filters & Slicers
 
-- Analyze by product line, customer, country, or sales rep dynamically.
+  - Analyze by product line, customer, country, or sales rep dynamically.
 
 📈 Visual Dashboards
 
-- KPIs, bar charts, line graphs, and donut charts for at-a-glance insights.
+  - KPIs, bar charts, line graphs, and donut charts for at-a-glance insights.
 
 📊 DAX Measures
 
-- Custom calculations like total revenue, profit margin, top N customers/products.
+  - Custom calculations like total revenue, profit margin, top N customers/products.
 
 🛠 Data Model
 
-- Star schema using relationships between fact and dimension tables.
+  - Star schema using relationships between fact and dimension tables.
 
 🔍 Drill-through & Tooltips
 
-- Explore individual customer, product, or order details with a click.
+  - Explore individual customer, product, or order details with a click.
 
 📅 Time Intelligence
 
-- Monthly, quarterly, and yearly comparisons using date hierarchy.
+  - Monthly, quarterly, and yearly comparisons using date hierarchy.
 
 ✅ Clean Data Pipeline
 
-- Null value handling, data type correction, and column renaming in Power Query.
+  - Null value handling, data type correction, and column renaming in Power Query.
 
 # Why This Project Stands Out
 
