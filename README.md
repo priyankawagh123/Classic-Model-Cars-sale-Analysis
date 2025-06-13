@@ -68,7 +68,7 @@ This Power BI project provides a comprehensive analysis of a fictional company t
 
   - Null value handling, data type correction, and column renaming in Power Query.
 
-# Why This Project Stands Out
+# 🧠Why This Project Stands Out
 
 1. **End-to-End Pipeline** – From data cleaning and transformation to modeling and dashboarding  
 2. **Relational Data Modeling** – Uses proper relationships and cardinality for scalable BI models  
