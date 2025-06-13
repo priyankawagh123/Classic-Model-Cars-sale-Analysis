@@ -11,9 +11,9 @@ This Power BI project provides a comprehensive analysis of a fictional company t
 
 2. 👥🔍Customer Segmentation:
 
- - Customers from the USA and France dominate total payments.
+      - Customers from the USA and France dominate total payments.
 
- - A small percentage of customers contribute a large portion of total revenue (Pareto principle).
+      - A small percentage of customers contribute a large portion of total revenue (Pareto principle).
 
 3. 💳🏦Payment & Credit Analysis:
 
