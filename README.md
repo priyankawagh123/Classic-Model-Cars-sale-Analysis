@@ -77,7 +77,7 @@ This Power BI project provides a comprehensive analysis of a fictional company t
 5. **Interactive Dashboard** – User-friendly visuals with slicers, tooltips, and drill-throughs  
 6. **Professional Documentation** – Organized structure with a README and screenshots
 
- # Repository Structure
+ # 🗂️Repository Structure
 <h3>Data</h3> 
    1.<a href="https://github.com/priyankawagh123/Power-Bi-Dashboard/blob/main/customers.csv"> Customers</a>– Information about customers and their sales representatives<br>  
    2. <a href="https://github.com/priyankawagh123/Power-Bi-Dashboard/blob/main/employees.csv">Employees</a> – Employee details including job titles and reporting hierarchy<br>  
