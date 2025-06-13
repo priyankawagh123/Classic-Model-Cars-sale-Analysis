@@ -2,7 +2,7 @@
 # 🚗 Classic Car Sales Analysis Project
 This Power BI project provides a comprehensive analysis of a fictional company that sells collectible classic model cars. The dataset consists of eight interrelated tables covering customers, employees, offices, orders, payments, products, and product lines.
 
-# Key Insights
+# ✨Key Insights
 1. 📈 Top Performing Products:
 
      - Classic Cars generated the highest revenue, followed by Vintage Cars and Motorcycles.
@@ -39,7 +39,7 @@ This Power BI project provides a comprehensive analysis of a fictional company t
 
     - High stock items with low sales volume suggest overstock or poor demand.
 
- # Key Features
+ # 🎨Key Features
 📌 Interactive Filters & Slicers
 
   - Analyze by product line, customer, country, or sales rep dynamically.
